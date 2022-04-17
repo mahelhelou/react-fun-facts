@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-fun-facts/static/css/main.d20a5d9c.css",
+    "main.js": "/react-fun-facts/static/js/main.1688d893.js",
+    "index.html": "/react-fun-facts/index.html",
+    "main.d20a5d9c.css.map": "/react-fun-facts/static/css/main.d20a5d9c.css.map",
+    "main.1688d893.js.map": "/react-fun-facts/static/js/main.1688d893.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d20a5d9c.css",
+    "static/js/main.1688d893.js"
+  ]
+}
